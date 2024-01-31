@@ -1,3 +1,3 @@
 # Frostie
 Bot multifonctions remade :))
-Fait par sewiii
+- Fait par sewiii
